@@ -146,3 +146,4 @@ np.savez(
 )
 print(f"\n  Saved → calibration_results.npz")
 print(f"  Used by: 03_undistort.py, 04_homography.py")
+# print("K:" K )
